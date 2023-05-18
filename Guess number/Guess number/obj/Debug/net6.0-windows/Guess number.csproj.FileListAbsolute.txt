@@ -1,0 +1,17 @@
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\bin\Debug\net6.0-windows\Guess number.exe
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\bin\Debug\net6.0-windows\Guess number.deps.json
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\bin\Debug\net6.0-windows\Guess number.runtimeconfig.json
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\bin\Debug\net6.0-windows\Guess number.dll
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\bin\Debug\net6.0-windows\Guess number.pdb
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\obj\Debug\net6.0-windows\Guess number.csproj.AssemblyReference.cache
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\obj\Debug\net6.0-windows\Guess_number.Form1.resources
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\obj\Debug\net6.0-windows\Guess number.csproj.GenerateResource.cache
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\obj\Debug\net6.0-windows\Guess number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\obj\Debug\net6.0-windows\Guess number.AssemblyInfoInputs.cache
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\obj\Debug\net6.0-windows\Guess number.AssemblyInfo.cs
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\obj\Debug\net6.0-windows\Guess number.csproj.CoreCompileInputs.cache
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\obj\Debug\net6.0-windows\Guess number.dll
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\obj\Debug\net6.0-windows\refint\Guess number.dll
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\obj\Debug\net6.0-windows\Guess number.pdb
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\obj\Debug\net6.0-windows\Guess number.genruntimeconfig.cache
+C:\Users\mrman\source\Projects\guessnumber\Guess number\Guess number\obj\Debug\net6.0-windows\ref\Guess number.dll
