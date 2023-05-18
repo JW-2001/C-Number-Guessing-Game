@@ -1,2 +1,2 @@
 # C-Number-Guessing-Game
-Just a really basic bare bones C# game for trying to guess a number.
+Made this rather quickly, just to get a feel again for using visual studios to create a C# appliciation again.
